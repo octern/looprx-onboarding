@@ -1,0 +1,47 @@
+a.smbtn {
+line-height: 6% !important;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+border-color: darkgray !important;
+background-color: rgb(240,240,240) !important;
+margin: 4px 10px 4px 10px !important;
+}
+a.ui-btn {
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+border-color: darkgray !important;
+background-color: rgb(240,240,240) !important;
+}
+.ui-slider-input {
+display : none !important;
+width:0px;
+}
+a.skipbutton {
+line-height: 3% !important;
+background-color: rgb(240, 240, 240) !important;
+color: rgb(130,130,120) !important;
+font-size: 80%;
+}
+div.slidercontainer {
+margin-top:20px;
+}
+.in, .out {
+animation-duration: 300ms !important;
+} 
+div.qprompt {
+font-size:120%;
+}
+.ui-slider-track {
+margin-left: 15px;
+}
+
+div.divider {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 1px solid darkgray;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}

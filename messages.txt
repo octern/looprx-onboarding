@@ -1,0 +1,27 @@
+2	Welcome to Mediloop!<BR><BR><img src=”http://inhumandecency.org/pictures/medloop.png”><BR><BR>Let's get you set up. If you're in a hurry, we can do this in under 2 minutes.
+3	I can set medication reminders for you automatically, or you can customize them for your personal schedule. 
+4	Okay! Here's when I recommend you take your medications. 
+5	Okay, we'll start with some questions. I'll keep this quick by only asking questions that are relevant to your meds. 
+6	When do you usually get up in the morning?
+7	When do you usually go to bed at night?
+8	When do you usually eat breakfast?
+9	When do you usually eat lunch?
+10	When do you usually eat dinner?
+11	Do you have anything you do every day at a specific time? (like exercise, a TV show, a leaving for an appointment)
+12	Now for reminders! I can give you a standard reminder (a beep on your phone) or you can get customized messages or phone calls. 
+13	What kind of reminders would you like?
+14	choose sound
+15	Alarm
+16	choose sound
+17	text message
+18	Plain
+19	customize?
+20	cute pictures
+21	funny
+22	trivia
+23	phone call
+24	plain message?
+25	celebrity
+26	<img src=”http://inhumandecency.org/medloop/med1.png”><BR><BR>When do you want to take this?
+27	<img src=”http://inhumandecency.org/medloop/med2.png”><BR><BR>When do you want to take this?
+28	Done!</p><p>Use the “Schedule” button to review or change your schedule anytime.

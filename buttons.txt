@@ -1,0 +1,19 @@
+2	#next#	3
+3	Personalize my schedule based on my daily habits	5
+3	Make a schedule for me (You can personalize it later)	4
+4	OK	12
+3	I'll tell you when I want to take my medications	26
+26	#time#	27
+27	#time#	12
+4	I want to change this.	3
+5	#next#	6
+6	#time#	10
+7	#time#	8
+8	#time#	9
+9	#time#	10
+10	#time#	4
+12	Use standard reminders (you can personalize them later)	28
+12	Personalize my reminders	29
+13	Play an alert on my phone	14
+13	Send me a text message	14
+13	Call my phone	15
